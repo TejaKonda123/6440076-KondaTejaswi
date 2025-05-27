@@ -35,7 +35,7 @@ Core_Java_Exercises/ — Includes .java files categorized by concept
 📦 How to Use
 
 Clone the repo:
- git clone 
+ git clone https://github.com/TejaKonda123/6440076-KondaTejaswi
  Digital Nurture 4.0 JAVA FSE Upskilling learning program.git
 Open relevant folders in your preferred IDE or code editor.
 
